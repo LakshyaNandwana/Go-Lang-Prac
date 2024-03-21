@@ -1,0 +1,10 @@
+mode: set
+MockTest/main/main.go:25.28,27.2 1 1
+MockTest/main/main.go:34.41,36.2 1 1
+MockTest/main/main.go:38.67,41.2 2 1
+MockTest/main/main.go:55.48,57.2 1 1
+MockTest/main/main.go:59.37,61.2 1 1
+MockTest/main/main.go:63.12,67.2 2 0
+MockTest/main/main.go:71.47,73.34 1 1
+MockTest/main/main.go:73.34,76.3 2 1
+MockTest/main/main.go:77.2,77.28 1 1
