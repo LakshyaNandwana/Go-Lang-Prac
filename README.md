@@ -79,3 +79,10 @@ Design patterns are proven solutions to common software design problems. This se
 
 
 Each pattern is explained with examples to demonstrate how it can be applied.
+
+
+#### RESOURCE LINKS
+---------------------
+https://go.dev/wiki/
+
+
